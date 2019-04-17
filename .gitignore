@@ -3,5 +3,6 @@ data/
 *.csv
 _MACOSX/
 dataset/
-cody2.jpg
+*.jpg
 *.bin
+images/
